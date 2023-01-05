@@ -5,6 +5,7 @@ import NxWelcome from './nx-welcome';
 export function App() {
   return (
     <>
+      <p>My unicorn title: 🦄🚀, and many more</p>
       <NxWelcome title="proton-client" />
       <div />
     </>
